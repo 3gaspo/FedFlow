@@ -30,3 +30,4 @@ training:
 misc:
   seed:
   outputdir: outputs/
+  smth: 1
